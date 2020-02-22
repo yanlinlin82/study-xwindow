@@ -3,5 +3,5 @@
 ## Reference
 
 * <https://www.x.org/wiki/Development/>
-* <http://x11-basic.sourceforge.net/X11-Basic-manual.pdf>
+* <https://www.x.org/releases/current/doc/>
 * <http://mech.math.msu.su/~nap/2/GWindow/xintro.html>
